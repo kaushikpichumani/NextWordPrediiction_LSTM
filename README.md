@@ -29,16 +29,16 @@
   <h2>📁 File Structure</h2>
   <pre>
 ├── app.py               # Streamlit app
-├── lstm_model.h5        # LSTM model
-├── gru_model.h5         # GRU model
+├── next_word_lstm..h5        # LSTM model
+├── next_word_lstm_GRU.h5         # GRU model
 ├── tokenizer.pickle     # Tokenizer used during training
   </pre>
 
   <h2>🚀 How to Run</h2>
   <pre>
 # Clone the repo
-git clone https://github.com/your-username/next-word-predictor.git
-cd next-word-predictor
+https://github.com/kaushikpichumani/NextWordPrediiction_LSTM.git
+cd NextWordPrediiction_LSTM
 
 # Install dependencies
 pip install -r requirements.txt
