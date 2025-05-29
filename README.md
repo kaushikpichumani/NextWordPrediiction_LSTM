@@ -1,4 +1,3 @@
-# NextWordPrediiction_LSTM
 <!DOCTYPE html>
 <html lang="en">
 <head>
